@@ -1,0 +1,43 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Robert
+    last_name: Fowler
+    motto: Let's Kill it
+    avatar: https://randomuser.me/api/portraits/man/24.jpg
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
+
+    # Sidebar links
+    email: rfowler97@gmail.com
+    phone: 813 810 6381
+    github: robfowler4
+    
+
+    languages:
+      
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Basketball
+
+      - item: Gaming
+
+      - item: Cooking
+
+education:
+    - degree: Associates Degree in Allied Health
+      university: Hillsborough Community College
+      time: 2011 - 2013
+      
+
